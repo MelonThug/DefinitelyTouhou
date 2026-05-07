@@ -2,6 +2,11 @@
 A vertical scrolling bullet hell shooter game mimicking games from Touhou Project, written in Java.
 This game was made for a Game Programming course project and technology was limited to course teachings. Hence there are many things that could be improved if no restrictions on implementation were present.
 
+## Running 
+**Requirements: Java 8+**  
+Download the [latest release](https://github.com/MelonThug/DefinitelyTouhou/releases/latest), extract ```DefinitelyTouhou.zip```, then run ```DefinitelyTouhou.jar```.
+
+
 ## Controls
 **Arrow keys** – Movement  
 **LeftShift** – Slow player movement (for more precise dodging)  
